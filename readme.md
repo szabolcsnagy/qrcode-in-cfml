@@ -1,6 +1,6 @@
 # QR Code Generator
 
-Simple example to generate QR codes in CFML using the zxing java library. It is only tested with Coldfusion 11, but it should work on other CFML engies.
+Simple example to generate QR codes in CFML using the zxing java library. It is only tested with Coldfusion 11, but it should work on other CFML engines.
 
 ## Getting Started
 
